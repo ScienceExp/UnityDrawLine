@@ -9,5 +9,3 @@ Steps:
 Enjoy!
 
 (Note: I originally tried GL.LINES however it was problematic after a compiled project. This is the better option.)
-
-![Chip8 Unity3D WebGL Emulator](Lines.jpg)
